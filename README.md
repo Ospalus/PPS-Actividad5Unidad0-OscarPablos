@@ -46,14 +46,23 @@ git push -u origin main
 
 > Con ``git remote -v`` podemos ver los repositorios remotos que tenemos configurados.
 
-1. Mirá tus remotos.
+1. Mirá tus remotos:
+
+![Mis remotos](imagenes/1.png)
 
 ### Visualizando la página web
 
-1. Visualiza con php el contenido de la página web( ``php -S 0:8080``).
+1. Visualiza con php el contenido de la página web( ``php -S 0:8080``):
+
+![Contenido de la página web](imagenes/2.png)
+
 2. Introduce dentro de la carpeta img una imagen de tu foto o avatar. El nombre del archivo debe de llevar como nombre tu nombre. 
 3. Dentro de la carpeta profile crea un archivo html con el mismo nombre del archivo de la imagen que copiaste en el punto anterior.
 4. Lanza el comando php para que se muestre el contenido de la página web y ver cómo se ha modificado.
+
+![Contenido de la página web](imagenes/3.png)
+
+![Contenido de la página web](imagenes/4.png)
 
 ### Colaborando
 
