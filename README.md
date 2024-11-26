@@ -76,7 +76,9 @@ git push -u origin main
 1. Para cada uno de los proyectos  de tus compañeros:
 	1. Acepta la invitación de colaboración en su repositorio.
 	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
+	![Clonando repositorio de Julio](imagenes/6.png)
 	1. Añade una nueva rama con tu nombre(``git branch``).
+	
 	1. Cámbiate a la rama que has creado(``git checkout``).
 	1. Comprueba en que rama te encuentras (``git`` status te dá la información).
 	1. Mira los remotos que tienes configurados.
