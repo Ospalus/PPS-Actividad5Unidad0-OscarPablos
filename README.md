@@ -86,7 +86,7 @@ git push -u origin main
 	![Colaborando con dos compañeros](imagenes/7_5.png)
 	![Colaborando con dos compañeros](imagenes/8.png)
 	1. Sube los cambios de tu rama al repositorio remoto y comprueba que puedes verlos en la web.
-
+    ![Colaborando con dos compañeros](imagenes/X.png)
 > Ahora vamos a hacer modificaciones en la rama main de tus compañeros. Es importante que el tiempo entre el push y el pull sea pequeño, ya que si en ese tiempo hay modificaciones por parte de otro colaborador, es posible que haya inconsistencias, en cuyo caso tendremos que utilizar ``git merge``.
 
 1. Cambiate a la rama main de los proyectos de tus compañeros
