@@ -71,6 +71,8 @@ git push -u origin main
 ![Aquí se muestra la configuración de colaboradores](imagenes/colaboradores.png)
 
 1. Comparte tu proyecto con al menos dos compañeros.
+
+![Colaborando con dos compañeros](imagenes/5.png)
 1. Para cada uno de los proyectos  de tus compañeros:
 	1. Acepta la invitación de colaboración en su repositorio.
 	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
