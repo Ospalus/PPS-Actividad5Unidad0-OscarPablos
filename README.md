@@ -78,11 +78,13 @@ git push -u origin main
 	1. Clona el repositorio (Recuerda que tendrás que crear una carpeta nueva para él).
 	![Clonando repositorio de Julio](imagenes/6.png)
 	1. Añade una nueva rama con tu nombre(``git branch``).
-	
+	![Colaborando con dos compañeros](imagenes/7.png)
 	1. Cámbiate a la rama que has creado(``git checkout``).
 	1. Comprueba en que rama te encuentras (``git`` status te dá la información).
 	1. Mira los remotos que tienes configurados.
 	1. Añade en esa rama tus archivos de usuario (foto y profile).
+	![Colaborando con dos compañeros](imagenes/7_5.png)
+	![Colaborando con dos compañeros](imagenes/8.png)
 	1. Sube los cambios de tu rama al repositorio remoto y comprueba que puedes verlos en la web.
 
 > Ahora vamos a hacer modificaciones en la rama main de tus compañeros. Es importante que el tiempo entre el push y el pull sea pequeño, ya que si en ese tiempo hay modificaciones por parte de otro colaborador, es posible que haya inconsistencias, en cuyo caso tendremos que utilizar ``git merge``.
