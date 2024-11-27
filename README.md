@@ -97,16 +97,29 @@ git push -u origin main
 1. Comprueba en qué rama te encuentras.
 1. Comprueba que tus compañeros hayan creado sus ramas en tu repositorio (``git branch``). Si no es así...!!!! échales una mano, hombre¡¡¡¡¡
 1. Comprueba con ``git diff`` las diferencias existentes entre las ramas Main y las de tus compañeros
+  ![Colaborando con dos compañeros](imagenes/Y.png)
+  ![Colaborando con dos compañeros](imagenes/Z.png)
+    ![Colaborando con dos compañeros](imagenes/Z1.png)
 
 ### Erre que erre con Git Logs
 
 >Repasemos git logs
 
 1. Muestra los logs
+![Erre que R](imagenes/Z2.png)
+
 2. Muestra los logs de los últimos 3 commits
+![Erre que R](imagenes/Z3.png)
+
 1. Muestra los logs utilizando el modificador ``--pretty``
+![Erre que R](imagenes/Z4.png)
+
 1. Muestra los logs de los últimos 2 commits donde se vean las diferencias de cada una de las entradas.
+![Erre que R](imagenes/Z5.png)
+
 1. Muestra los logs de las modificaciones realizadas en el último día
+![Erre que R](imagenes/Z6.png)
+
 
 
 ### Entrega
